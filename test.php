@@ -10,7 +10,7 @@
     /*
     muchas
     lineas
-    de comentario
+    de comentarios
     */
 
     echo "<!-- comentario html -->";

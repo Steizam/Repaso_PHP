@@ -1,0 +1,10 @@
+<?php
+$uno = "Variable 1"
+$dos = "Variable 2"
+
+$tipo_uno = gettype($uno);
+$tipo_dos = gettype($dos);
+
+echo "Esta es la $uno y esta la $dos, la variable $uno es de tipo $tipo_uno y la $dos es de tipo $tipo_dos "
+
+?>
